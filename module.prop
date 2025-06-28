@@ -1,0 +1,7 @@
+id=a_module
+name=A module
+version=114514
+versionCode=1919810
+author=BarryLhm
+description=I'm a magisk module. (also a git repo)
+template=1500
